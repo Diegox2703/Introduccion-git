@@ -1,0 +1,6 @@
+git init: Inicia git
+U al lado de algun archivo significa que git no identifica este mismo archivo o es nuevo
+git add filename: Guarda los archivos que se quiere tener en una version.
+git add .: Agregar un punto guarda todos los archivos que han sido modificados.
+git commit -m "mensaje": Mensaje que describe la version creada
+git log: Muestra las versiones creadas.   
